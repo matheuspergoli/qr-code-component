@@ -1,0 +1,27 @@
+#card-container {
+    width: 250px;
+    height: 380px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: var(--white);
+}
+
+#qr-img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+#introduction {
+    padding: 15px;
+    text-align: center;
+}
+
+#introduction h1 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#introduction p {
+    font-size: 13px;
+    color: var(--grayish-blue);
+}
